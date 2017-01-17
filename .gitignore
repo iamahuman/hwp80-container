@@ -1,4 +1,5 @@
 /container.exe
 /containerw.exe
 *.o
+*.res
 .*.sw?
