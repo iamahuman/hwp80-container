@@ -1,0 +1,4 @@
+/container.exe
+/containerw.exe
+*.o
+.*.sw?
